@@ -12,7 +12,7 @@ Me nombro Valentina Bocanegra Casas, cuento con conocimientos y pasión por el �
 
 🌐 Técnologo sistemas de informacion y técnico en asistencia administrativo 
 
-📱 Estoy estudiando tecnico en asistente en programacion de software en Politécnico PIO
+📱 Estoy estudiando técnico en asistente en programacion de software en Politécnico PIO
 
 📫 Cómo contactarme alzatevalen1@gmail.com
 
