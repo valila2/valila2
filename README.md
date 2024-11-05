@@ -1,6 +1,6 @@
 ## ¡Hola, Bienvenidos a mi perfil! 👋🏼
 
-Me nombro Valentina Bocanegra Casas, cuento con conocimientos y pasión por el área de Programación y Desarrollo de Software. Actualmente estoy cursando mi carrera técnica en el Politécnico PIO y tengo un nivel A2 en inglés. 💻
+Hola, soy Valentina Bocanegra Casas. Soy una apasionada del área de Programación y Desarrollo de Software, con conocimientos sólidos que estoy desarrollando en mi carrera técnica en el Politécnico PIO. Me destaco por mi capacidad para trabajar en equipo, mis habilidades de comunicación efectiva y mi adaptabilidad ante nuevos desafíos. Además, poseo un nivel A2 en inglés. Estoy comprometida con el aprendizaje continuo y la innovación en el campo tecnológico. 💻
 <div align="center">
     <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="Python logo" width="40" height="40"/>
  
