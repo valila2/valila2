@@ -16,7 +16,7 @@ Mi objetivo es contribuir al desarrollo de soluciones tecnológicas que tengan u
 
 🌐 Técnologo sistemas de informacion y técnico en asistencia administrativo 
 
-📱 Cursando el técnico en asistente en programacion de software en Politécnico PIO
+📱 Cursando el técnico en asistente en programación de software en Politécnico PIO
 
 📫 Cómo contactarme alzatevalen1@gmail.com
 
